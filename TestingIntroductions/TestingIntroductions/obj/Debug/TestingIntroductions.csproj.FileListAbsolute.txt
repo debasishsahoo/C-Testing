@@ -1,0 +1,10 @@
+D:\.netprojects\teting\TestingIntroductions\TestingIntroductions\bin\Debug\TestingIntroductions.exe.config
+D:\.netprojects\teting\TestingIntroductions\TestingIntroductions\bin\Debug\TestingIntroductions.exe
+D:\.netprojects\teting\TestingIntroductions\TestingIntroductions\bin\Debug\TestingIntroductions.pdb
+D:\.netprojects\teting\TestingIntroductions\TestingIntroductions\bin\Debug\WebDriver.dll
+D:\.netprojects\teting\TestingIntroductions\TestingIntroductions\obj\Debug\TestingIntroductions.csproj.AssemblyReference.cache
+D:\.netprojects\teting\TestingIntroductions\TestingIntroductions\obj\Debug\TestingIntroductions.csproj.SuggestedBindingRedirects.cache
+D:\.netprojects\teting\TestingIntroductions\TestingIntroductions\obj\Debug\TestingIntroductions.csproj.CoreCompileInputs.cache
+D:\.netprojects\teting\TestingIntroductions\TestingIntroductions\obj\Debug\TestingIntroductions.csproj.CopyComplete
+D:\.netprojects\teting\TestingIntroductions\TestingIntroductions\obj\Debug\TestingIntroductions.exe
+D:\.netprojects\teting\TestingIntroductions\TestingIntroductions\obj\Debug\TestingIntroductions.pdb

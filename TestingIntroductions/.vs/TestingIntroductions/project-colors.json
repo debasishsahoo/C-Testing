@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ce460a7-3138-4414-aff6-66d64c26b46c": {
+      "ProjectGuid": "5ce460a7-3138-4414-aff6-66d64c26b46c",
+      "DisplayName": "TestingIntroductions",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d68cda16-a962-462b-bf05-6fc1932b65b6": {
+      "ProjectGuid": "d68cda16-a962-462b-bf05-6fc1932b65b6",
+      "DisplayName": "2.SeleniumCommands",
+      "ColorIndex": 1
+    },
+    "546af36e-01bd-487c-9b74-1671fb8f882e": {
+      "ProjectGuid": "546af36e-01bd-487c-9b74-1671fb8f882e",
+      "DisplayName": "2.Commands",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
