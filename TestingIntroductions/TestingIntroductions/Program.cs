@@ -18,7 +18,7 @@ namespace TestingIntroductions
 
             IWebDriver driver = new ChromeDriver();
           
-            Thread.Sleep(5000);
+            Thread.Sleep(2000);
 
             driver.Navigate().GoToUrl("https://www.google.co.in/");
             
