@@ -12,12 +12,6 @@ namespace _2.Commands
     {
         static void Main(string[] args)
         {
-
-            IWebDriver Driver = new ChromeDriver();
-            IWebElement Element;
-            ITargetLocator Locator;
-            IOptions options;
-
             //1.Browser Command
             //2.Navigation Command
             //3.WebElement Command
@@ -115,7 +109,41 @@ namespace _2.Commands
             //int DarKMode = Driver.FindElement(By.Id(""))Location.X;
             //int DarKMode = Driver.FindElement(By.Id(""))Location.Y;
 
+            IWebDriver Driver = new ChromeDriver();
+            string email = "txmatest@gmail.com";
+            string password = "#Txtest#123#";
 
+            Driver.Navigate().GoToUrl("https://gmail.com");
+
+            Driver.Manage().Window.Maximize();
+
+            Driver.FindElement(By.XPath("//input[@aria-label='Email or phone']")).SendKeys(email);
+
+            Task.Delay(2000).Wait();
+
+            Driver.FindElement(By.XPath("//*[text()='Next']")).Click();
+
+            Task.Delay(2000).Wait();
+
+            Driver.FindElement(By.XPath("//input[@type='password']")).SendKeys(password);
+
+            Task.Delay(2000).Wait();
+
+            Driver.FindElement(By.XPath("//*[text()='Next']")).Click();
+
+            Task.Delay(2000).Wait();
+
+            Driver.FindElement(By.XPath("(//a[@role='button'])[4]")).Click();
+
+            Task.Delay(2000).Wait();
+
+            Driver.FindElement(By.XPath("//*[text()='Sign out']")).Click();
+
+
+            Task.Delay(120000).Wait();
+
+            Driver.Close();
+            Driver.Quit();
 
 
 
