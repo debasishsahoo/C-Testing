@@ -1,0 +1,10 @@
+D:\.netprojects\teting\TestingIntroductions\3.FindElement\bin\Debug\3.FindElement.exe.config
+D:\.netprojects\teting\TestingIntroductions\3.FindElement\bin\Debug\3.FindElement.exe
+D:\.netprojects\teting\TestingIntroductions\3.FindElement\bin\Debug\3.FindElement.pdb
+D:\.netprojects\teting\TestingIntroductions\3.FindElement\bin\Debug\WebDriver.dll
+D:\.netprojects\teting\TestingIntroductions\3.FindElement\obj\Debug\3.FindElement.csproj.AssemblyReference.cache
+D:\.netprojects\teting\TestingIntroductions\3.FindElement\obj\Debug\3.FindElement.csproj.SuggestedBindingRedirects.cache
+D:\.netprojects\teting\TestingIntroductions\3.FindElement\obj\Debug\3.FindElement.csproj.CoreCompileInputs.cache
+D:\.netprojects\teting\TestingIntroductions\3.FindElement\obj\Debug\3.FindElement.csproj.CopyComplete
+D:\.netprojects\teting\TestingIntroductions\3.FindElement\obj\Debug\3.FindElement.exe
+D:\.netprojects\teting\TestingIntroductions\3.FindElement\obj\Debug\3.FindElement.pdb
