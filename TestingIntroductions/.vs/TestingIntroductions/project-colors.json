@@ -20,7 +20,12 @@
       "ProjectGuid": "546af36e-01bd-487c-9b74-1671fb8f882e",
       "DisplayName": "2.Commands",
       "ColorIndex": 2
+    },
+    "fadbab4d-70c8-49b6-8566-e0fd72d9f8e5": {
+      "ProjectGuid": "fadbab4d-70c8-49b6-8566-e0fd72d9f8e5",
+      "DisplayName": "3.FindElement",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

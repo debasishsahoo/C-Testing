@@ -1,0 +1,54 @@
+nodename                   Select All nodes with the nodename
+
+employees                Select All nodes with the <employees>    
+
+
+
+/                          select from root node
+/employees                 select from employees node
+
+jquery $x("//employees/employee")
+
+
+
+
+
+//                         select nodes in the dcoument from the current node that match the selection no matter where thay are
+
+//employee 
+
+employees//employee       select all book element that are desendent of the employees element
+
+jquery $x("//employee")
+
+
+
+.         select the current node              
+
+..        selcte the parent of current node
+
+@         Select Attributes
+
+
+
+Select First Element           //employees/employee[1] 
+Select Last Element            //employees/employee[last()] 
+Select Second last Element     //employees/employee[last()-1] 
+Select Second Element          //employees/employee[2] 
+Select First Three Element     //employees/employee[position()<4] 
+Select Element Based on Calculation //employees/employee[salary>12000]
+                                    //employees/employee[salary=12000]/name
+                                    //employees/employee[salary>12000]/id
+
+
+//WhildCard
+*                             //employees/*
+                              //*            Select ALL Doument
+                              //employee[@*]    Any one Attributes
+
+
+//employee/id | //employee/salary     select all the id and salary from employee
+
+//id | //salary     select all the id and salary from DOC
+
+//employee/id|//salary

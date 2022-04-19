@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employees>
+
+    <employee>
+        <id>1</id>
+        <name>Aftab</name>
+        <salary>12000</salary>
+    </employee>
+
+    <employee lang="hin">
+        <id>2</id>
+        <name>Saikat</name>
+        <salary>12400</salary>
+    </employee>
+
+    <employee lang="ben">
+        <id>3</id>
+        <name>Laxmi</name>
+        <salary>13000</salary>
+    </employee>
+
+    <employee lang="ben">
+        <id>4</id>
+        <name>Zubar</name>
+        <salary>12100</salary>
+    </employee>
+
+    <tempemployee lang="en">
+        <id>5</id>
+        <name>Debasish</name>
+        <salary>120000</salary>
+    </tempemployee>
+
+</employees>
