@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Commands", "2.Commands\2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.FindElement", "3.FindElement\3.FindElement.csproj", "{FADBAB4D-70C8-49B6-8566-E0FD72D9F8E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.xpathintro", "4.xpathintro\4.xpathintro.csproj", "{3846DFD0-3AD3-430E-AC6F-56EF84C03D85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FADBAB4D-70C8-49B6-8566-E0FD72D9F8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FADBAB4D-70C8-49B6-8566-E0FD72D9F8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FADBAB4D-70C8-49B6-8566-E0FD72D9F8E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3846DFD0-3AD3-430E-AC6F-56EF84C03D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3846DFD0-3AD3-430E-AC6F-56EF84C03D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3846DFD0-3AD3-430E-AC6F-56EF84C03D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3846DFD0-3AD3-430E-AC6F-56EF84C03D85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

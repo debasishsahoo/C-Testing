@@ -1,0 +1,10 @@
+D:\.netprojects\teting\TestingIntroductions\4.xpathintro\bin\Debug\4.xpathintro.exe.config
+D:\.netprojects\teting\TestingIntroductions\4.xpathintro\bin\Debug\4.xpathintro.exe
+D:\.netprojects\teting\TestingIntroductions\4.xpathintro\bin\Debug\4.xpathintro.pdb
+D:\.netprojects\teting\TestingIntroductions\4.xpathintro\bin\Debug\WebDriver.dll
+D:\.netprojects\teting\TestingIntroductions\4.xpathintro\obj\Debug\4.xpathintro.csproj.AssemblyReference.cache
+D:\.netprojects\teting\TestingIntroductions\4.xpathintro\obj\Debug\4.xpathintro.csproj.SuggestedBindingRedirects.cache
+D:\.netprojects\teting\TestingIntroductions\4.xpathintro\obj\Debug\4.xpathintro.csproj.CoreCompileInputs.cache
+D:\.netprojects\teting\TestingIntroductions\4.xpathintro\obj\Debug\4.xpathintro.csproj.CopyComplete
+D:\.netprojects\teting\TestingIntroductions\4.xpathintro\obj\Debug\4.xpathintro.exe
+D:\.netprojects\teting\TestingIntroductions\4.xpathintro\obj\Debug\4.xpathintro.pdb
